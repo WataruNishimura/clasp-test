@@ -1,0 +1,14 @@
+{
+  "name": "clasp-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WataruNishimura/clasp-test.git",
+  "author": "WataruNishimura <wataru.nishimura@irenkakotan.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.57"
+  },
+  "dependencies": {
+    "@google/clasp": "^2.4.2"
+  }
+}
